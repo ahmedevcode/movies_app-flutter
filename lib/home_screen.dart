@@ -13,36 +13,9 @@ class home extends StatefulWidget {
 
 class _homeState extends State<home> {
   int currentIndex = 0;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       bottomNavigationBar: Theme(
         data: Theme.of(context)
             .copyWith(canvasColor: MyThemeData.primaryColor),

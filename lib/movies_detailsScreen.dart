@@ -9,7 +9,7 @@ import 'data/sourse_response.dart';
 import 'data/sourse_response.dart';
 import 'data/sourse_response.dart';
 
-class moviedetails extends StatelessWidget {
+/*class moviedetails extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
@@ -30,3 +30,4 @@ class moviedetails extends StatelessWidget {
     );
   }
 }
+*/

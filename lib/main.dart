@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: MyThemeData.lightTheme,
-
       routes:{
     home.routename:(context)=>home(),
 
